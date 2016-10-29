@@ -1,0 +1,17 @@
+PODS:
+  - Charts (3.0.0):
+    - Charts/Core (= 3.0.0)
+  - Charts/Core (3.0.0)
+  - FDWaveformView (2.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - FDWaveformView
+
+SPEC CHECKSUMS:
+  Charts: beb341928d2135613b4325a6c6aff9f2f6de895e
+  FDWaveformView: 13d70f4d8c536393427c8b4c9e846bf0bcfd16c7
+
+PODFILE CHECKSUM: 98a63a965c92a668f427f3750ed0da0bc6fffe11
+
+COCOAPODS: 1.1.1
